@@ -261,6 +261,8 @@ This is a demonstration project. For production use, ensure:
 - Integration with official government systems
 - Thorough testing and quality assurance
 
+For detailed articles on cybersecurity, open-source intelligence (OSINT), cyber threat analysis, and digital forensics, visit my blog:
+👉 Dark OSINT https://darkosint.blogspot.com/
 ---
 
 **Indonesia Web3 Services** - Transforming public services through blockchain technology for a more transparent and efficient government-citizen interaction.
